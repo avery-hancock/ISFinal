@@ -1,0 +1,23 @@
+.homebg{
+    background-image:url("../assets/img/scratchbckgd.jpg") ;
+    background-size: cover;
+}
+
+a:hover {
+    text-decoration: underline;
+   /*font-weight: bold; */
+   /* links are underlined when hovered over*/
+}
+
+a:visited{
+    color:midnightblue; 
+}
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    color:darkslategrey;
+    background-color: rgb(251, 241, 241);
+    /* changed font, size, and color of body */
+}
+
